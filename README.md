@@ -11,9 +11,9 @@
 		<h3 id='image label'> Rat chef</h3>
 	<div>
 		<ul>
-			 <li><a href='</a></li>
-			 <li><a href='</a></li>
-			 <li><a href='</a></li>
+			 <li><a href='/home/doghitbyfrisbee/odin-recipes/pop-corn.html'>Pop-corn</a></li>
+			 <li><a href='/home/doghitbyfrisbee/odin-recipes/ra-men.html'>Ra-men</a></li>
+ 			 <li><a href="/home/doghitbyfrisbee/odin-recipes/morn-eggs.html">Morning Eggs</a></li>
 		</ul>
 	</div>
         <a href="#header">Return to top</a>
